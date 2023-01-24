@@ -3,5 +3,5 @@
 
 
 
-#Coverage
+# Coverage
 [![Coverage](.github/badges/jacoco.svg)](https://github.com/s18552/Messenger/actions/workflows/build.yml)
